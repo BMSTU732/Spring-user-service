@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/BMSTU732/Spring-user-service.svg?branch=master)](https://travis-ci.org/BMSTU732/Spring-user-service)
+
 **Spring user service** 
 
 Задача:
